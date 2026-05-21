@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppFracmentsFinal</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="cow">Cow</string>
+    <string name="cat_desc">This is a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws.</string>
+    <string name="dog_desc">A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice.</string>
+    <string name="cow_desc">A fully grown female animal of a domesticated breed of ox, kept to produce milk or beef.</string>
+</resources>
