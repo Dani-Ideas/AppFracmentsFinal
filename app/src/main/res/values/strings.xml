@@ -1,9 +1,21 @@
 <resources>
-    <string name="app_name">AppFracmentsFinal</string>
-    <string name="cat">Cat</string>
-    <string name="dog">Dog</string>
-    <string name="cow">Cow</string>
-    <string name="cat_desc">This is a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws.</string>
-    <string name="dog_desc">A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice.</string>
-    <string name="cow_desc">A fully grown female animal of a domesticated breed of ox, kept to produce milk or beef.</string>
+    <string name="app_name">Fragmentos Animales</string>
+    <string name="cat">Gato</string>
+    <string name="dog">Perro</string>
+    <string name="cow">Vaca</string>
+    <string name="cat_desc">Es un pequeño mamífero carnívoro domesticado con pelaje suave, hocico corto y garras retráctiles.</string>
+    <string name="dog_desc">Un mamífero carnívoro domesticado que normalmente tiene un hocico largo, un sentido del olfato agudo y una voz que ladra o aúlla.</string>
+    <string name="cow_desc">Un animal hembra adulto de una raza domesticada de buey, criado para producir leche o carne de vacuno.</string>
+
+    <!-- <string name="cat_desc">Es un pequeño mamífero carnívoro domesticado con pelaje suave, hocico
+        corto y garras retráctiles.
+    </string> -->
+
+    <!-- <string name="dog_desc">Un mamífero carnívoro domesticado que normalmente tiene un hocico largo,
+        un sentido del olfato agudo y una voz que ladra o aúlla.
+    </string> -->
+
+    <!-- <string name="cow_desc">Un animal hembra adulto de una raza domesticada de buey, criado para
+        producir leche o carne de vacuno.
+    </string> -->
 </resources>
